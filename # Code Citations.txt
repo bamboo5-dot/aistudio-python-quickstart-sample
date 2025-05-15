@@ -1,0 +1,74 @@
+# Code Citations
+
+## License: unknown
+[https://github.com/xieqi/vimrc/tree/4e71add81346d2c03542131a6a3cee07d226f169/docs/developers/NewToGluten.md](https://github.com/xieqi/vimrc/tree/4e71add81346d2c03542131a6a3cee07d226f169/docs/developers/NewToGluten.md)
+
+```
+environment": [],
+  "externalConsole": false,
+  "MIMode": "gdb",
+  "setupCommands": [
+    {
+      "description": "Enable pretty-printing for gdb",
+      "text": "-enable-pretty-printing",
+      "ignoreFailures"
+```
+
+
+## License: unknown
+https://github.com/gerryyang/mac-utils/tree/b7975d5991d1229cb1a244d477ade4242d252d43/tools/VPS/jekyll/my-jekyll-project/_posts/2021-04-09-vs-code-in-action.markdown
+
+```
+${workspaceFolder}",
+  "environment": [],
+  "externalConsole": false,
+  "MIMode": "gdb",
+  "setupCommands": [
+    {
+      "description": "Enable pretty-printing for gdb",
+      "text": "-enable-pretty
+```
+
+
+## License: MIT
+https://github.com/nomadli/nomadli.github.io/tree/db12c973d1db899b08fa187af3728218867424c7/_posts/2020-07-14-vscode.md
+
+```
+: [],
+  "stopAtEntry": false,
+  "cwd": "${workspaceFolder}",
+  "environment": [],
+  "externalConsole": false,
+  "MIMode": "gdb",
+  "setupCommands": [
+    {
+      "description": "Enable pretty
+```
+
+
+## License: unknown
+https://github.com/huihut/blog/tree/f95a084a296b9e6f0190d2c463a5b8837740176e/source/_posts/VSCodeCppLaunchTasks.md
+
+```
+: "cppdbg",
+  "request": "launch",
+  "program": "${fileDirname}/${fileBasenameNoExtension}.exe",
+  "args": [],
+  "stopAtEntry": false,
+  "cwd": "${workspaceFolder}",
+```
+
+
+## License: unknown
+https://github.com/woshimayi/driver/tree/c4cd59edb3ab4def9640f5f17d222fb280137754/user/C/.vscode/windows%2010%E4%B8%8A%E4%BD%BF%E7%94%A8vscode%E7%BC%96%E8%AF%91%E8%BF%90%E8%A1%8C%E5%92%8C%E8%B0%83%E8%AF%95C.html
+
+```
+,
+  "program": "${fileDirname}/${fileBasenameNoExtension}.exe",
+  "args": [],
+  "stopAtEntry": false,
+  "cwd": "${workspaceFolder}",
+  "environment": [],
+  "externalConsole": false
+```
+
